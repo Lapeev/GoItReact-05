@@ -1,0 +1,10 @@
+{
+  "budget": 5000,
+  "expenses": [
+    {
+      "name": "asda",
+      "amount": 600,
+      "id": "VROm6rb01"
+    }
+  ]
+}
